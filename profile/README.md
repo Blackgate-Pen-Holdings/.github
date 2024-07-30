@@ -1,6 +1,6 @@
 <h1 align="center"> Creating apps & tools of the future</h1>
 
-<div style="text-align: center;">
+<div align="center">
 
 ![Blackgate Pen](<./resources/Blackgate Black.png>)
 
