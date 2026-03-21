@@ -1,10 +1,10 @@
-<h1 align="center"> Creating apps & tools of the future</h1>
-
 <div align="center">
+
+## Creating Apps & Tools of the future.
 
 </br>
 
-![Blackgate Pen](<./resources/Blackgate Black.png>)
+![Blackgate Pen](<https://raw.githubusercontent.com/Blackgate-Pen-Holdings/.github/refs/heads/main/profile/resources/Blackgate%20Black.png>)
 
 </br>
 
